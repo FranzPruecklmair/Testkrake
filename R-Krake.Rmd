@@ -6,6 +6,7 @@ output:
   html_document: 
     keep_md: yes
 ---
+Dieser Kommentar wurde in der R Branch verfasst.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
