@@ -2,7 +2,9 @@
 title: "R-Krake"
 author: "Franz Prücklmair"
 date: "11 3 2022"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
